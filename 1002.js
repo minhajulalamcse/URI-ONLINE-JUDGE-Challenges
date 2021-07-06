@@ -17,4 +17,4 @@ var radius = parseFloat(lines.shift());
 
 var area = pi * radius * radius;
 
-console.log('A = '+ area.toFixed(4));
+console.log('A='+ area.toFixed(4));
