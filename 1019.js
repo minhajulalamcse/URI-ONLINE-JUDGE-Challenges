@@ -1,6 +1,6 @@
 /*
- * URL: 
- * Problem Name: 
+ * URL: https://www.urionlinejudge.com.br/judge/en/problems/view/1019
+ * Problem Name: 1019 - Time Conversion
  */
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
